@@ -385,7 +385,7 @@ status collapsed
 
 \end_inset
 
- hybrid adala
+ hybrid adalah bla bla bla bla
 \end_layout
 
 \begin_layout Section
@@ -397,7 +397,49 @@ text text text text text text text text text text text text text text text
 \end_layout
 
 \begin_layout Subsection
-subsection
+Arsitektur
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img/hybrid-arch.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+another subsection
 \end_layout
 
 \begin_layout Subsection
