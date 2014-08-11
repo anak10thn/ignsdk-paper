@@ -363,7 +363,7 @@ IEEEPARstart{
 
 \end_inset
 
-H
+A
 \begin_inset ERT
 status collapsed
 
@@ -374,7 +374,7 @@ status collapsed
 
 \end_inset
 
-ere
+plikasi
 \begin_inset ERT
 status collapsed
 
@@ -385,8 +385,7 @@ status collapsed
 
 \end_inset
 
- is the text text text text text text text text text text text text text
- text text text.
+ hybrid adalah bla bla bla bla
 \end_layout
 
 \begin_layout Section
@@ -398,7 +397,17 @@ text text text text text text text text text text text text text text text
 \end_layout
 
 \begin_layout Subsection
-subsection
+Arsitektur
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename img/hybrid-arch.png
+	scale 30
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
