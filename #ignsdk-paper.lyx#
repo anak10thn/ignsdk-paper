@@ -407,6 +407,12 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\begin_inset Graphics
+	filename img/hybrid-arch.png
+	scale 30
+
+\end_inset
+
 
 \end_layout
 
@@ -414,7 +420,7 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-
+IGNSDK Arsitektur
 \end_layout
 
 \end_inset
@@ -425,13 +431,6 @@ status open
 \begin_layout Plain Layout
 
 \end_layout
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename img/hybrid-arch.png
-	scale 30
 
 \end_inset
 

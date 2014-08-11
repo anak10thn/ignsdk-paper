@@ -401,6 +401,12 @@ Arsitektur
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
 \begin_inset Graphics
 	filename img/hybrid-arch.png
 	scale 30
@@ -408,6 +414,31 @@ Arsitektur
 \end_inset
 
 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+IGNSDK Arsitektur
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+another subsection
 \end_layout
 
 \begin_layout Subsection
