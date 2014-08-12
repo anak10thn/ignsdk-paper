@@ -43,7 +43,7 @@ $(build)/paper.tex: paper.md $(build)/paper.bib $(build)/authors.tex $(build)/ti
 	pandoc paper.md --biblatex --bibliography=$(build)/paper.bib -t latex | sed -e 's/autocite{/cite{/g' -e 's/autocite\[/cite\[/g' > $(build)/paper.tex
 
 $(build)/ieee_jrnl.pdf: $(build)/ieee_jrnl.tex $(build)/paper.tex $(build)/paper.bib $(build)/abstract.tex
-	cd $(build); cp ../src/req/* .;latexmk $(LATEXOPT) -CF -pdf ieee_jrnl.tex
+	cd $(build); cp ../src/req/* .;cp ../src/img/* .;latexmk $(LATEXOPT) -CF -pdf ieee_jrnl.tex
 
 slow: $(build)/ieee_jrnl.pdf
 
