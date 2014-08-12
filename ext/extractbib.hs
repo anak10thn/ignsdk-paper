@@ -1,0 +1,15 @@
+module Main where
+import Text.Pandoc
+import System.Environment (getArgs)
+--import Text.Pandoc.Parsing (defaultParserState)
+
+extractBib :: Pandoc -> String
+extractBib (Pandoc _ bl) = concatMap f bl
+  where f (CodeBlock (_,classes,_) s) | "bib" `elem` classes = s ++ "\n"
+        f _ = []
+
+processFile :: String -> String
+processFile = extractBib . readMarkdown def
+
+main :: IO ()
+main = getArgs >>= mapM readFile >>= mapM_ (putStrLn . processFile)
