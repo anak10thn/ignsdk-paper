@@ -16,10 +16,10 @@
 Your notes on the subject.
 
 ~~~ {.bib}
-@book{bib2013sample,
-  author = {Joe Random},
-  title = {The Global Meltdown},
-  year = {2255},
-  publisher={The Great One}
+@book{IEEE Second Symposium on Network Cloud Computing and Applications,
+  author = {Rahnuma Kazi, Xiaobo Zhang, Ralph Deters},
+  title = {Supporting Apps in the Personal Cloud Using WebSockets within Hybrid Apps },
+  year = {2012},
+  publisher={IEEE}
 }
 ~~~
