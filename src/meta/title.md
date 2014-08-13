@@ -1,1 +1,1 @@
-Membuat Aplikasi Hybrid Dengan IGNSDK
+Kerangka Pengembangan Aplikasi Hibrida Menggunakan IGN-SDK
