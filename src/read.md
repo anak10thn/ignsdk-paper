@@ -16,10 +16,10 @@
 Your notes on the subject.
 
 ~~~ {.bib}
-@book{IEEE Second Symposium on Network Cloud Computing and Applications,
+@book{HybridAppsCloud2012,
   author = {Rahnuma Kazi, Xiaobo Zhang, Ralph Deters},
   title = {Supporting Apps in the Personal Cloud Using WebSockets within Hybrid Apps },
   year = {2012},
-  publisher={IEEE}
+  publisher={IEEE Second Symposium on Network Cloud Computing and Applications}
 }
 ~~~
